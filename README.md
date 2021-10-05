@@ -1,3 +1,3 @@
-# EdfGarage
+# EDFGARAGE
 
-## INSTRUÇÃO DE USO
+### Instrução de Uso
